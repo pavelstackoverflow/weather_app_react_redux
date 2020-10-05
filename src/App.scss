@@ -1,0 +1,28 @@
+.App {
+  margin: 0 auto;
+  width: 375px;
+  height: 812px;
+}
+
+.font-app {
+  &-card-bottom {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 10px;
+    letter-spacing: 0.1em;
+    color: #999999;
+  }
+
+  &-card-middle {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.05em;
+    color: #444444;
+  }
+
+
+}
+

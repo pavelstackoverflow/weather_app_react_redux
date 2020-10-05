@@ -1,0 +1,18 @@
+{
+  "token" : {
+    "token": "330216f9e3042b8a57a7865c3de67865"
+  },
+  "cities": [
+    { "id": 1, "name": "Moscow"},
+    { "id": 2, "name": "Volgograd"},
+    { "id": 3, "name": "Rostov"},
+    { "id": 4, "name": "Minsk"},
+    { "id": 5, "name": "Mexico"},
+    { "id": 6, "name": "Tula"},
+    { "id": 7, "name": "Pskov"},
+    { "id": 8, "name": "Saratov"},
+    { "id": 9, "name": "Vladivostok"}
+  ]
+}
+
+
